@@ -1,0 +1,56 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 11/03/2021 10:46
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.html#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.html#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+.flaticon-cctv-camera:before { content: "\f100"; }
+.flaticon-cctv:before { content: "\f101"; }
+.flaticon-cctv-1:before { content: "\f102"; }
+.flaticon-cctv-2:before { content: "\f103"; }
+.flaticon-phone-call:before { content: "\f104"; }
+.flaticon-globe:before { content: "\f105"; }
+.flaticon-earth-globe:before { content: "\f106"; }
+.flaticon-right-arrow:before { content: "\f107"; }
+.flaticon-arrow-pointing-to-right:before { content: "\f108"; }
+.flaticon-long-arrow-pointing-to-the-right:before { content: "\f109"; }
+.flaticon-cctv-3:before { content: "\f10a"; }
+.flaticon-cctv-camera-1:before { content: "\f10b"; }
+.flaticon-cctv-camera-2:before { content: "\f10c"; }
+.flaticon-cctv-4:before { content: "\f10d"; }
+.flaticon-checked:before { content: "\f10e"; }
+.flaticon-check:before { content: "\f10f"; }
+.flaticon-calendar:before { content: "\f110"; }
+.flaticon-view:before { content: "\f111"; }
+.flaticon-view-eye-interface-symbol:before { content: "\f112"; }
+.flaticon-speech-bubbles-comment-option:before { content: "\f113"; }
+.flaticon-chat:before { content: "\f114"; }
+.flaticon-left-arrow:before { content: "\f115"; }
+.flaticon-left-arrow-1:before { content: "\f116"; }
+.flaticon-open-book:before { content: "\f117"; }
+.flaticon-open-magazine:before { content: "\f118"; }
+.flaticon-mail:before { content: "\f119"; }

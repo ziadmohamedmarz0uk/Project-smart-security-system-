@@ -1,0 +1,242 @@
+@media only screen and (min-width: 1400px) {
+    
+    
+}
+
+
+@media only screen and (max-width: 1400px) {
+    .top-inner {
+        padding: 10px 0;
+    }
+    .hero-section {
+        height: 630px;
+        margin-top: 80px;
+        padding-top: 25px;
+    }
+    .page-banner {
+        margin-top: 80px;
+    }
+    .testi-services {
+        max-width: 85%;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1250px) {
+    .newsletter form input {
+        width: auto;
+    }
+    
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        max-width: 1270px;
+        padding: 0 50px;
+    }
+    .fun-fact {
+        margin-left: 100px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1199px) {
+    .about-image,
+    .about-page .about-image {
+        position: relative;
+        right: 0;
+        width: 100%;
+        height: 400px;
+        margin-bottom: 55px;
+    }
+    .about-content {
+        padding-bottom: 115px;
+    }
+    .about-page .about-content {
+        padding: 0;
+    }
+    .services-section {
+        padding-top: 115px;
+    }
+    
+}
+
+
+@media only screen and (min-width: 992px) {
+    
+    
+}
+
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) { 
+    
+    
+}
+
+
+@media only screen and (max-width: 991px) {
+    .hero-section {
+        height: auto;
+        margin-top: 70px;
+        padding-bottom: 30px;
+    }
+    .page-banner {
+        height: 350px;
+        margin-top: 50px;
+        padding-bottom: 20px;
+    }
+    .testi-services {
+        max-width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .testi-service-item {
+        margin-top: 30px;
+    }
+    .testimonial-bg {
+        display: none;
+    }
+    .footer-logo {
+        margin: 75px 0 40px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 767px) {    
+    h1 {
+        font-size: 40px;
+    }
+    .service-box {
+        margin-bottom: 30px;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    .newsletter {
+        display: block;
+    }
+    .newsletter form {
+        margin: 25px 0 10px;
+    }
+    .recent-news-widget .news-image {
+        margin-right: 20px;
+    }
+    .text-reply .reply {
+        margin-left: 15px;
+    }
+    
+}
+
+
+
+@media only screen and (max-width: 575px) {
+    .newsletter {
+        padding: 40px 30px;
+    }
+    .about-image:after {
+        width: 10px;
+    }
+    .admin-comment {
+        padding: 20px;
+    }
+    .comments-box .text-reply {
+        display: block;
+        margin-bottom: 30px;
+    }
+    .comments-box:last-child .text-reply {
+        margin-bottom: 0;
+    }
+    .comments-box .text-reply .reply {
+        margin-left: 0;
+    }
+    
+}
+
+@media only screen and (max-width: 480px) {
+    .fun-fact {
+        padding: 50px 25px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 450px) {
+    .newsletter form {
+        display: block;
+    }
+    .newsletter form input {
+        width: 100%;
+    }
+    .comments-box {
+        display: block;
+    }
+    .comments-avatar {
+        margin-bottom: 15px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    h1 {
+        font-size: 35px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .success-content {
+        max-width: 65%;
+    }
+    .success-item i {
+        font-size: 60px;
+    }
+    .count-text {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+}
+
+
+@media only screen and (max-width: 400px) {
+    .featured-box {
+        padding: 40px 25px 30px;
+    }
+    .testi-authors {
+        max-width: 300px;
+    }
+    .author-item {
+        width: 70px;
+        height: 70px;
+    }
+    .recent-news-widget .news-image {
+        margin-right: 15px;
+    }
+    .contact-page h2,
+    .contact-info .info-item {
+        margin-bottom: 25px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 375px) {
+    .theme-btn, a.theme-btn {
+        min-width: auto;
+        font-weight: 500;
+        padding: 15px 33px;
+    }
+    .service-content {
+        padding: 0 25px 35px;
+    }
+    .blog-content h3,
+    .service-content h3 {
+        font-size: 22px;
+    }
+    .info-item .info-icon {
+        margin-right: 15px;
+    }
+    
+}
+
